@@ -14,7 +14,7 @@ Model is fully deployable to a memory constrained MCU (it can meet the memory re
 # Politics 101
 In this project we introduce a custom made dataset (made using Makesense.ai) called Politics 101. The dataset consists of 10 classes of famous politiical leaders. The images have a low resolution, to pose an extra challenge during the evaluation of the face detection system. The dataset focuses mostly on face detection but has been built with face classification/recognition/identification in mind. All images are savd under "image.npy" at a (320,320,3) input size and the corresponding labels are saved under "labels.npy". Further information are included in the datasets corresponding ReadMe file.
 
-![Politics 101](/asset/politics101.png)
+![Politics 101](/assets/politics101.png)
 
 
 # Refined training process
